@@ -10,6 +10,14 @@
 <img width="964" height="1021" alt="image111" src="https://github.com/user-attachments/assets/2b96556f-4ef4-485f-97ea-b75b3c2a6369" />
 Command shortcuts: s to select the floorplan, v to center ourselves, and then z and Shift+z to zoom in and out(e.g., see which layer this pin is (metal3 in our case))
 <img width="874" height="659" alt="image1111" src="https://github.com/user-attachments/assets/bc072455-d9d6-41f1-82be-86b1a1775924" />
+
 Or zoom in and look at individual cells
 <img width="968" height="977" alt="image14373458" src="https://github.com/user-attachments/assets/702a3551-7d2b-47f5-b115-b90a28cf365b" />
-
+As we move across the layout, we can see preplaced cells (e.g., OR gates, buffers, etc...)
+<img width="968" height="1021" alt="image13473468" src="https://github.com/user-attachments/assets/e98dd0e7-364e-4421-ad05-e26b4bca17fa" />
+After exiting, "run_placement" command is used and then magic -T
+<img width="1122" height="481" alt="image4583458" src="https://github.com/user-attachments/assets/39ee2187-3c9b-489d-9076-b1869720c310" />
+<img width="968" height="106" alt="image2357" src="https://github.com/user-attachments/assets/9ba3b3e9-1407-49b6-9842-b692c4cace53" />
+<img width="949" height="1021" alt="imag14737e" src="https://github.com/user-attachments/assets/b602fee2-fd3d-4002-ac95-c6ae94409fc7" />
+With this layout opened we can zoom in and see some of the standard cells
+<img width="958" height="1027" alt="imag2347478e" src="https://github.com/user-attachments/assets/c5496102-07c9-480c-b1c0-49532564f007" />
