@@ -15,7 +15,7 @@
 As we move across the layout, we can see preplaced cells (e.g., OR gates, buffers, etc...)
 <img width="968" height="1021" alt="image13473468" src="https://github.com/user-attachments/assets/e98dd0e7-364e-4421-ad05-e26b4bca17fa" />
 # After exitingthe , "run_placement" command is used, and then 
-```bash magic -T /home/vsduser/Desktop/work/tools/openlane_working_dir/pdks/sky130A/libs.tech/magic/sky130A ```
+```bash magic -T /home/vsduser/Desktop/work/tools/openlane_working_dir/pdks/sky130A/libs.tech/magic/sky130A 
 <img width="1122" height="481" alt="image4583458" src="https://github.com/user-attachments/assets/39ee2187-3c9b-489d-9076-b1869720c310" />
 <img width="968" height="106" alt="image2357" src="https://github.com/user-attachments/assets/9ba3b3e9-1407-49b6-9842-b692c4cace53" />
 <img width="949" height="1021" alt="imag14737e" src="https://github.com/user-attachments/assets/b602fee2-fd3d-4002-ac95-c6ae94409fc7" />
