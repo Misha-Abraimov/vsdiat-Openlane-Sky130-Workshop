@@ -11,7 +11,7 @@
 Command shortcuts: s to select the floorplan, v to center ourselves, and then z and Shift+z to zoom in and out(e.g., see which layer this pin is (metal3 in our case))
 <img width="874" height="659" alt="image1111" src="https://github.com/user-attachments/assets/bc072455-d9d6-41f1-82be-86b1a1775924" />
 
-#Or zoom in and look at individual cells
+# Or zoom in and look at individual cells
 <img width="968" height="977" alt="image14373458" src="https://github.com/user-attachments/assets/702a3551-7d2b-47f5-b115-b90a28cf365b" />
 As we move across the layout, we can see preplaced cells (e.g., OR gates, buffers, etc...)
 <img width="968" height="1021" alt="image13473468" src="https://github.com/user-attachments/assets/e98dd0e7-364e-4421-ad05-e26b4bca17fa" />
