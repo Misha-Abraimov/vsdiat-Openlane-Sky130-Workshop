@@ -27,3 +27,4 @@ As we move across the layout, we can see preplaced cells (e.g., OR gates, buffer
 <img width="949" height="1021" alt="imag14737e" src="https://github.com/user-attachments/assets/b602fee2-fd3d-4002-ac95-c6ae94409fc7" />
 With this layout opened we can zoom in and see some of the standard cells
 <img width="958" height="1027" alt="imag2347478e" src="https://github.com/user-attachments/assets/c5496102-07c9-480c-b1c0-49532564f007" />
+e
