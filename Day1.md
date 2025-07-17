@@ -8,6 +8,8 @@
 <img width="977" height="305" alt="image1123" src="https://github.com/user-attachments/assets/d685c7cd-c5da-491f-ad25-5566023fc29e" />
 <img width="969" height="219" alt="image11123" src="https://github.com/user-attachments/assets/c79718bb-276e-4077-b92e-34611f7ec540" />
 <img width="964" height="1021" alt="image111" src="https://github.com/user-attachments/assets/2b96556f-4ef4-485f-97ea-b75b3c2a6369" />
-Command shortcuts: s to select the floorplan, v to center ourselves, and then z and Shift+z to zoom in and out.
-For example, we can zoom in and see which layer this pin is (metal3 in our case)
+Command shortcuts: s to select the floorplan, v to center ourselves, and then z and Shift+z to zoom in and out(e.g., see which layer this pin is (metal3 in our case))
 <img width="874" height="659" alt="image1111" src="https://github.com/user-attachments/assets/bc072455-d9d6-41f1-82be-86b1a1775924" />
+Or zoom in and look at individual cells
+<img width="968" height="977" alt="image14373458" src="https://github.com/user-attachments/assets/702a3551-7d2b-47f5-b115-b90a28cf365b" />
+
