@@ -1,4 +1,3 @@
-
 # Starting up OpenLANE on picorv32a
 <img width="1429" height="1189" alt="image1234" src="https://github.com/user-attachments/assets/45c61e5a-2ec0-4577-8e96-40a7bd163897" />
 # 1. Initialize interactive mode: 
