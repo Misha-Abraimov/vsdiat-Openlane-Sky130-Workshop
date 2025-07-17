@@ -1,12 +1,12 @@
 # Starting up OpenLANE on picorv32a
 <img width="1429" height="1189" alt="image1234" src="https://github.com/user-attachments/assets/45c61e5a-2ec0-4577-8e96-40a7bd163897" />
-# Initialize interactive mode 
+## Initialize interactive mode 
 <pre markdown> ./flow.tcl -interactive </pre>
-# Load the OpenLANE package 
+## Load the OpenLANE package 
 <pre markdown>package require openlane 0.9 </pre>
-# rep picorv32a design 
+## rep picorv32a design 
 <pre markdown> prep -design picorv32a </pre>
-# Execute synthesis 
+## Execute synthesis 
 <pre markdown> run_synthesis </pre>
 <img width="904" height="280" alt="image12345" src="https://github.com/user-attachments/assets/bd56be84-36c7-4ae6-86eb-b469d34eeb52" />
 <img width="1283" height="836" alt="image11" src="https://github.com/user-attachments/assets/4d5eefd1-5add-4485-bd5d-915734e52dd3" />
